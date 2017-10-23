@@ -1,0 +1,26 @@
+root@4803ba1f1dd0:~/openface/demos# Traceback (most recent call last):
+  File "feature_extraction.py", line 102, in <module>
+    print getRep(img)
+  File "feature_extraction.py", line 79, in getRep
+    raise Exception("Unable to find a face: {}".format(imgPath))
+Exception: Unable to find a face: /usr/share/faces/image_0327.jpg
+Traceback (most recent call last):
+  File "feature_extraction.py", line 102, in <module>
+    print getRep(img)
+  File "feature_extraction.py", line 79, in getRep
+    raise Exception("Unable to find a face: {}".format(imgPath))
+Exception: Unable to find a face: /usr/share/faces/image_0265.jpg
+Traceback (most recent call last):
+  File "feature_extraction.py", line 102, in <module>
+    print getRep(img)
+  File "feature_extraction.py", line 79, in getRep
+    raise Exception("Unable to find a face: {}".format(imgPath))
+Exception: Unable to find a face: /usr/share/faces/image_0195.jpg
+Traceback (most recent call last):
+  File "feature_extraction.py", line 102, in <module>
+    print getRep(img)
+  File "feature_extraction.py", line 79, in getRep
+    raise Exception("Unable to find a face: {}".format(imgPath))
+Exception: Unable to find a face: /usr/share/faces/image_0320.jpg
+
+
